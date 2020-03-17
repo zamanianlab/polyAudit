@@ -24,7 +24,7 @@ The entire pipeline is contained within `polya.py` and can be run in a single co
                             for adapters and primers prior to running this
                             program. I do not guarantee a desirable or predictable
                             outcome with the -p option.
-      -polyA, --polyA       Runsthe algorithm to measure poly(A) tails in a FASTA
+      -polyA, --polyA       Runs the algorithm to measure poly(A) tails in a FASTA
                             file. Requires -p if sequences contain a 3' adapter or
                             primer. Will include poly(A) tail measurement, k-mer
                             counting in the 50 nt upstream of of the tail,
