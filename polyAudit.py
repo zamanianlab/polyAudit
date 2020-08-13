@@ -1,5 +1,3 @@
-#!/Users/njwheeler/software/miniconda3/bin/python
-
 import sys
 import argparse
 import pathlib
